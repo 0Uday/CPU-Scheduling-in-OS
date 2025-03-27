@@ -1,3 +1,5 @@
+<h2> Link: https://0uday.github.io/CPU-Scheduling-in-OS/ </h2>
+
 Overview
 This project implements an Energy Efficient CPU Scheduler using a priority-based scheduling algorithm. It simulates process scheduling while considering arrival time, burst time, and priority (lower values indicate higher priority). Additionally, it calculates key scheduling metrics such as completion time, turnaround time, waiting time, and energy consumption based on burst time.
 
